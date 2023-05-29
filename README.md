@@ -1,5 +1,5 @@
 # Algorithm
-	#Function to return the number of steps for the desired user
+	# Function to return the number of steps for the desired user
 	# Run the process until terminated
 		# For each user, do the following:
 			# Fetch the previous steps
