@@ -1,3 +1,6 @@
+# Screen Time to Green Time
+	# A desktop application that can process data from a fitness tracker and use it to control
+	# access to the WiFi router, to help balance screen time and physical activity
 # Algorithm
 	# Function to return the number of steps for the desired user
 	# Run the process until terminated
